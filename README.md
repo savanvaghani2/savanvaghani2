@@ -36,13 +36,6 @@ I work mainly on frontend architecture, onboarding flows, product UI/UX, interna
 - Internal tools and automation workflows
 - AI-assisted implementation and rapid prototyping
 
-## GitHub stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=savanvaghani2&show_icons=true&hide_border=true&theme=github_dark" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savanvaghani2&layout=compact&hide_border=true&theme=github_dark" height="160" />
-</p>
-
 ## Connect
 
 - Portfolio: https://savan-web-portfolio.vercel.app/
