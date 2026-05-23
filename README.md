@@ -4,8 +4,6 @@ Frontend Engineer focused on building scalable SaaS products, modern product exp
 
 I work mainly on frontend architecture, onboarding flows, product UI/UX, internal tooling, and AI-assisted development workflows using modern web technologies.
 
----
-
 ## Current focus
 
 - Building modern SaaS web apps and websites
@@ -14,8 +12,6 @@ I work mainly on frontend architecture, onboarding flows, product UI/UX, interna
 - Developer tooling and internal workflows
 - AI-assisted engineering workflows
 - Performance and usability improvements
-
----
 
 ## Tech stack
 
@@ -31,8 +27,6 @@ I work mainly on frontend architecture, onboarding flows, product UI/UX, interna
 ![Playwright](https://img.shields.io/badge/Playwright-black?style=flat-square&logo=playwright)
 ![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git)
 
----
-
 ## What I work on
 
 - Product-focused frontend development
@@ -42,16 +36,12 @@ I work mainly on frontend architecture, onboarding flows, product UI/UX, interna
 - Internal tools and automation workflows
 - AI-assisted implementation and rapid prototyping
 
----
-
 ## GitHub stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=savanvaghani2&show_icons=true&hide_border=true&theme=github_dark" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savanvaghani2&layout=compact&hide_border=true&theme=github_dark" height="160" />
 </p>
-
----
 
 ## Connect
 
