@@ -4,8 +4,6 @@ Frontend Engineer building modern SaaS experiences, scalable frontend systems, a
 
 I focus on product UI/UX, frontend architecture, onboarding experiences, reusable systems, and fast iteration using modern web technologies.
 
----
-
 ## Focus Areas
 
 - Frontend Engineering
@@ -15,8 +13,6 @@ I focus on product UI/UX, frontend architecture, onboarding experiences, reusabl
 - Design Systems
 - Developer Workflows
 - Performance & Usability
-
----
 
 ## Tech Stack
 
@@ -35,8 +31,6 @@ I focus on product UI/UX, frontend architecture, onboarding experiences, reusabl
 ![Playwright](https://img.shields.io/badge/Playwright-black?style=flat-square&logo=playwright)
 ![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git)
 
----
-
 ## What I Like Building
 
 - Product-focused web applications
@@ -46,13 +40,9 @@ I focus on product UI/UX, frontend architecture, onboarding experiences, reusabl
 - Internal tools and developer workflows
 - Fast and clean user experiences
 
----
-
 ## Philosophy
 
 > Build fast. Keep it clean. Prioritize usability.
-
----
 
 ## Connect
 
