@@ -4,15 +4,17 @@
 
 <br />
 
-<a href="https://www.linkedin.com/in/savan-vaghani-233107241">
-  <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=38bdf8" alt="LinkedIn" />
-</a>
-<a href="mailto:savanvaghani2@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=ef4444" alt="Email" />
-</a>
-<a href="https://github.com/savanvaghani2">
-  <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/savan-vaghani-233107241">
+    <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+  </a>
+  <a href="mailto:savanvaghani2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
+  </a>
+  <a href="https://github.com/savanvaghani2">
+    <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 </div>
 
